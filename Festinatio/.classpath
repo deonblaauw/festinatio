@@ -3,7 +3,7 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="org/droidplanner/MAVLink/MavLinkArm.java|org/droidplanner/MAVLink/MavLinkCalibration.java|org/droidplanner/MAVLink/MavLinkHeartbeat.java|org/droidplanner/MAVLink/MavLinkModes.java|org/droidplanner/MAVLink/MavLinkParameters.java|org/droidplanner/MAVLink/MavLinkRC.java|org/droidplanner/MAVLink/MavLinkStreamRates.java|org/droidplanner/MAVLink/MavLinkWaypoint.java" kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
